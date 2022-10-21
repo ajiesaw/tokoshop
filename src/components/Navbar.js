@@ -1,4 +1,4 @@
-const Paras = () => {
+const Navbar = () => {
   return (
     <div className="text-black">
       <p>Paras Frontend Intern Hiring Test</p>
@@ -7,4 +7,4 @@ const Paras = () => {
   )
 }
 
-export default Paras
+export default Navbar
